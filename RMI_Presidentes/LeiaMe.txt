@@ -1,0 +1,15 @@
+1 - Certifique-se de que o Java Runtime Environment (JRE) ou o Java Development Kit (JDK) 
+esteja instalado no seu computador. 
+Você pode verificar isso digitando java -version no Prompt de Comando. 
+Se não estiver instalado, baixe e instale o JRE ou JDK a partir do site oficial da Oracle: 
+https://www.oracle.com/java/technologies/javase-jdk14-downloads.html;
+
+2 - Abra o Prompt de Comando (cmd) no seu computador;
+
+3 - Encontre e copie o diretório onde o arquivo Server.class está localizado;
+
+4 - Digite no cmd: java Server;
+
+5 - Em uma outra janela do cmd, no mesmo diretório, digite o comando: java Client.
+
+Observação: O charset do cmd do Windows pode mostrar caracteres estranhos no print do array.
